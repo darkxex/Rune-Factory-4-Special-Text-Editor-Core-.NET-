@@ -30,7 +30,7 @@ namespace RuneFactory4TextExtractor
             Header header;
             if (args.Length > 0)
             {
-                Console.WriteLine("argumento: " + args[0]);
+             
 
                 String namefile = args[0];
 
@@ -142,6 +142,7 @@ namespace RuneFactory4TextExtractor
                         }
 
             }
+            else
             Console.WriteLine("to extract text, drag the file over the app.\n to import it, add -i originalfile.eng translated.eng.txt");
 
 

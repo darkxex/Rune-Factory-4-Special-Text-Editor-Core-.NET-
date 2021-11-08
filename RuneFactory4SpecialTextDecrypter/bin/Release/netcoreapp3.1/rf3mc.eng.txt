@@ -63131,16 +63131,16 @@ I need to equip this.
 Press ＠字０＠ to eat ＠アイテム０＠.
 [Received ＠アイテム２＠.]
          - Spring Day 1 -                   {LF}{LF}       Weather: Fair Skies
-Norad Express Destination: Selphia
-I'm flyin' high, baby!
-Goodness, I'm so high up!
-This choice will make you a ＋male＋ character.
+Norad Express Destino: Selphia
+Estoy volando alto, baby!
+Dios mio, estoy tan alto!
+This choice will make you a ＋masculino＋ character.
 ／Do you want a male character?／{LF}(Choose ／no／ to reselect.)
-This choice will make you a ＋female＋ character.
+This choice will make you a ＋femenino＋ character.
 ／Do you want a female character?／ {LF}(Choose ／no／ to reselect.)
 Yes.
 No.
-This ship is heading to the town of Selphia.
+Este barco se esta dirigiendo a la ciudad de Selphia.
 That town is famous for its 'god'.
 And I am now trying to deliver this gift to her.
 I don't have much time...

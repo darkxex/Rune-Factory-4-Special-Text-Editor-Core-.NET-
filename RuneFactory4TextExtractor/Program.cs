@@ -10,10 +10,10 @@ namespace RuneFactory4TextExtractor
 
         struct Header
         {
-           public byte[] idtype;
-           public int idcode;
-           
-  
+            public byte[] idtype;
+            public int idcode;
+
+
         }
         public static int SwapEndianness(int value)
         {
@@ -30,47 +30,59 @@ namespace RuneFactory4TextExtractor
             if (args.Length > 0)
             {
                 Console.WriteLine("argumento: " + args[0]);
-            
-            String namefile = args[0];
-            
-            using (BinaryReader reader = new BinaryReader(File.Open(namefile, FileMode.Open)))
-            {
-                header.idtype = reader.ReadBytes(4);
-                header.idcode = reader.ReadInt32();
-                long savepos = reader.BaseStream.Position;
-                int firstLength = reader.ReadInt32();
-                int firstOffset = reader.ReadInt32();
-                string text = Encoding.UTF8.GetString(header.idtype);
-                Console.WriteLine("Type: " + text);
-                Console.WriteLine("Code: " + header.idcode.ToString("X"));
-                
-                Console.WriteLine("Initial Offset: " + firstOffset.ToString("X"));
-                reader.BaseStream.Position = savepos;
-                
-                List<string> result = new List<string>();
-                while (reader.BaseStream.Position < firstOffset)
-                {
-                    int textLength = reader.ReadInt32();
-                    int textOffset = reader.ReadInt32();
-                    Console.WriteLine("Length: " + textLength.ToString("X"));
-                    Console.WriteLine("Offset: " + textOffset.ToString("X"));
-                    long gotooffset = reader.BaseStream.Position;
-                    reader.BaseStream.Position = textOffset;
-                    Byte[] texttemp = reader.ReadBytes(textLength);
-                    string texttemputf8 = Encoding.UTF8.GetString(texttemp).Replace("\n", "{LF}");
-                    result.Add(texttemputf8);
 
-                  
-                    Console.WriteLine("Line: " + texttemputf8);
-                    reader.BaseStream.Position = gotooffset;
-                   
-                    
+                String namefile = args[0];
+                Boolean import = true;
+                if (import == true)
+                //
+                {
+                    using (BinaryReader reader = new BinaryReader(File.Open(namefile, FileMode.Open)))
+                    {
+                        header.idtype = reader.ReadBytes(4);
+                        header.idcode = reader.ReadInt32();
+                        long savepos = reader.BaseStream.Position;
+                        int firstLength = reader.ReadInt32();
+                        int firstOffset = reader.ReadInt32();
+                        string text = Encoding.UTF8.GetString(header.idtype);
+                        Console.WriteLine("Type: " + text);
+                        Console.WriteLine("Code: " + header.idcode.ToString("X"));
+
+                        Console.WriteLine("Initial Offset: " + firstOffset.ToString("X"));
+                        reader.BaseStream.Position = savepos;
+
+                        List<string> result = new List<string>();
+                        while (reader.BaseStream.Position < firstOffset)
+                        {
+                            int textLength = reader.ReadInt32();
+                            int textOffset = reader.ReadInt32();
+                            Console.WriteLine("Length: " + textLength.ToString("X"));
+                            Console.WriteLine("Offset: " + textOffset.ToString("X"));
+                            long gotooffset = reader.BaseStream.Position;
+                            reader.BaseStream.Position = textOffset;
+                            Byte[] texttemp = reader.ReadBytes(textLength);
+                            string texttemputf8 = Encoding.UTF8.GetString(texttemp).Replace("\n", "{LF}");
+                            result.Add(texttemputf8);
+
+
+                            Console.WriteLine("Line: " + texttemputf8);
+                            reader.BaseStream.Position = gotooffset;
+
+
+                        }
+                        reader.Close();
+                        File.WriteAllLines(namefile + ".txt", result);
+                    }
                 }
-                reader.Close();
-                File.WriteAllLines(namefile + ".txt", result);
+                //
+                else
+                {
+
                 }
+
             }
             Console.WriteLine("inserta el fichero en ingles");
+
+
         }
     }
 }

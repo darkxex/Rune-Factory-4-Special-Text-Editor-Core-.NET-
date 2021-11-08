@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\darkx\\source\\repos\\RuneFactory4TextExtractor\\RuneFactory4TextExtractor\\RuneFactory4TextExtractor.csproj",
+      "projectUniqueName": "C:\\Users\\darkx\\Documents\\GitHub\\Rune-Factory-4-Special-Text-Extractor\\RuneFactory4TextExtractor\\RuneFactory4TextExtractor.csproj",
       "projectName": "RuneFactory4TextExtractor",
-      "projectPath": "C:\\Users\\darkx\\source\\repos\\RuneFactory4TextExtractor\\RuneFactory4TextExtractor\\RuneFactory4TextExtractor.csproj",
+      "projectPath": "C:\\Users\\darkx\\Documents\\GitHub\\Rune-Factory-4-Special-Text-Extractor\\RuneFactory4TextExtractor\\RuneFactory4TextExtractor.csproj",
       "packagesPath": "C:\\Users\\darkx\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\darkx\\source\\repos\\RuneFactory4TextExtractor\\RuneFactory4TextExtractor\\obj\\",
+      "outputPath": "C:\\Users\\darkx\\Documents\\GitHub\\Rune-Factory-4-Special-Text-Extractor\\RuneFactory4TextExtractor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\darkx\\AppData\\Roaming\\NuGet\\NuGet.Config",

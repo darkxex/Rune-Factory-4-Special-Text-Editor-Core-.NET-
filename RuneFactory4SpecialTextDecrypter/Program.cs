@@ -110,9 +110,10 @@ namespace RuneFactory4TextExtractor
                             for (int x = 0; x < text.Length; x++)
                             {
                                 String temporal = text[x].Replace("{LF}", "\n");
-                                writer.Write(temporal.Length);
+                                Byte[] towrite = Encoding.UTF8.GetBytes(temporal);
+                                writer.Write(towrite.Length);
                                 writer.Write(firstOffset + carry);
-                                carry += (temporal.Length + 1);
+                                carry += (towrite.Length + 1);
 
                             }
 

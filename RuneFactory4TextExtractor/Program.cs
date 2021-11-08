@@ -142,7 +142,7 @@ namespace RuneFactory4TextExtractor
                         }
 
             }
-            Console.WriteLine("inserta el fichero en ingles");
+            Console.WriteLine("to extract text, drag the file over the app.\n to import it, add -i originalfile.eng translated.eng.txt");
 
 
         }

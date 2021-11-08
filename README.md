@@ -13,3 +13,5 @@ RuneFactory4SpecialTextDecrypter.exe ArchivoOriginal.eng Traducción.eng.txt  (g
 ![image](https://user-images.githubusercontent.com/17991404/140677005-9c677a98-76e9-47b5-8b67-680105437476.png)
 ![image](https://user-images.githubusercontent.com/17991404/140677039-1ad155a4-cc8d-49b0-86a3-ae8f65ab6c7f.png)
 ![image](https://user-images.githubusercontent.com/17991404/140677058-50635d4c-f8b5-47ac-92f3-c093aef4a710.png)
+![image](https://user-images.githubusercontent.com/17991404/140677900-4cc57075-e165-4150-ad1f-fb3c4f114efa.png)
+

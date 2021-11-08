@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\darkx\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\darkx\\.nuget\\packages"
-    ]
-  }
-}

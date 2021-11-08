@@ -26,13 +26,18 @@ namespace RuneFactory4TextExtractor
         }
         static void Main(string[] args)
         {
+            Boolean import = false;
             Header header;
             if (args.Length > 0)
             {
                 Console.WriteLine("argumento: " + args[0]);
 
                 String namefile = args[0];
-                Boolean import = true;
+
+                if (args[0] == "-i")
+                    import = true;
+                else
+                    import = false;
                 if (import == false)
                 //
                 {
@@ -55,8 +60,8 @@ namespace RuneFactory4TextExtractor
                         {
                             int textLength = reader.ReadInt32();
                             int textOffset = reader.ReadInt32();
-                            Console.WriteLine("Length: " + textLength.ToString("X"));
-                            Console.WriteLine("Offset: " + textOffset.ToString("X"));
+                            //Console.WriteLine("Length: " + textLength.ToString("X"));
+                            //Console.WriteLine("Offset: " + textOffset.ToString("X"));
                             long gotooffset = reader.BaseStream.Position;
                             reader.BaseStream.Position = textOffset;
                             Byte[] texttemp = reader.ReadBytes(textLength);
@@ -64,13 +69,14 @@ namespace RuneFactory4TextExtractor
                             result.Add(texttemputf8);
 
 
-                            Console.WriteLine("Line: " + texttemputf8);
+                            //Console.WriteLine("Line: " + texttemputf8);
                             reader.BaseStream.Position = gotooffset;
 
 
                         }
                         reader.Close();
                         File.WriteAllLines(namefile + ".txt", result);
+                        Console.WriteLine(namefile + ".txt Generated.");
                     }
                 }
                 //
@@ -78,10 +84,10 @@ namespace RuneFactory4TextExtractor
                 {
                     //
                     MemoryStream result = new MemoryStream();
-                    string[] text = File.ReadAllLines("rf3TxtLoad.eng.txt");
+                    string[] text = File.ReadAllLines(args[2]);
                     using (BinaryWriter writer = new BinaryWriter(result))
                     {
-                        using (Stream stream = File.OpenRead("rf3TxtLoad.eng"))
+                        using (Stream stream = File.OpenRead(args[1]))
                         {
                             BinaryReader reader = new BinaryReader(stream);
                             header.idtype = reader.ReadBytes(4);
@@ -89,11 +95,11 @@ namespace RuneFactory4TextExtractor
                             long savepos = reader.BaseStream.Position;
                             int firstLength = reader.ReadInt32();
                             int firstOffset = reader.ReadInt32();
-                           
-                            Console.WriteLine("Type: " + text);
-                            Console.WriteLine("Code: " + header.idcode.ToString("X"));
+                            string typtext = Encoding.UTF8.GetString(header.idtype);
+                            //Console.WriteLine("Type: " + typtext);
+                            //Console.WriteLine("Code: " + header.idcode.ToString("X"));
 
-                            Console.WriteLine("Initial Offset: " + firstOffset.ToString("X"));
+                            //Console.WriteLine("Initial Offset: " + firstOffset.ToString("X"));
                             reader.BaseStream.Position = savepos;
 
                             reader.BaseStream.Seek(0, SeekOrigin.Begin);
@@ -125,7 +131,9 @@ namespace RuneFactory4TextExtractor
 
                             }
                         }
-                        File.WriteAllBytes("test.generate", result.ToArray());
+                        File.WriteAllBytes("_"+args[1], result.ToArray());
+
+                        Console.WriteLine("_" + args[1] +" Generated.");
                     }
 
 

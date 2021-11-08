@@ -33,7 +33,7 @@ namespace RuneFactory4TextExtractor
 
                 String namefile = args[0];
                 Boolean import = true;
-                if (import == true)
+                if (import == false)
                 //
                 {
                     using (BinaryReader reader = new BinaryReader(File.Open(namefile, FileMode.Open)))
@@ -76,8 +76,62 @@ namespace RuneFactory4TextExtractor
                 //
                 else
                 {
+                    //
+                    MemoryStream result = new MemoryStream();
+                    string[] text = File.ReadAllLines("rf3TxtLoad.eng.txt");
+                    using (BinaryWriter writer = new BinaryWriter(result))
+                    {
+                        using (Stream stream = File.OpenRead("rf3TxtLoad.eng"))
+                        {
+                            BinaryReader reader = new BinaryReader(stream);
+                            header.idtype = reader.ReadBytes(4);
+                            header.idcode = reader.ReadInt32();
+                            long savepos = reader.BaseStream.Position;
+                            int firstLength = reader.ReadInt32();
+                            int firstOffset = reader.ReadInt32();
+                           
+                            Console.WriteLine("Type: " + text);
+                            Console.WriteLine("Code: " + header.idcode.ToString("X"));
 
-                }
+                            Console.WriteLine("Initial Offset: " + firstOffset.ToString("X"));
+                            reader.BaseStream.Position = savepos;
+
+                            reader.BaseStream.Seek(0, SeekOrigin.Begin);
+                            writer.Write(reader.ReadBytes(8));
+
+                            int carry = 0;
+                            //escribiendo offset.
+                            for (int x = 0; x < text.Length; x++)
+                            {
+                                String temporal = text[x].Replace("{LF}", "\n");
+                                writer.Write(temporal.Length);
+                                writer.Write(firstOffset + carry);
+                                carry += (temporal.Length + 1);
+                            
+                            }
+
+                            //escribiendo strings.
+                            reader.BaseStream.Position = firstOffset;
+                            for (int x = 0; x < text.Length; x++)
+                            {
+                                String temporal = text[x].Replace("\r", "").Replace("{LF}", "\n");
+
+                               Byte[] towrite = Encoding.UTF8.GetBytes(temporal);
+                                Byte zero = 0x00;
+                                writer.Write(towrite);
+                                writer.Write(zero);
+
+
+
+                            }
+                        }
+                        File.WriteAllBytes("test.generate", result.ToArray());
+                    }
+
+
+
+                            //
+                        }
 
             }
             Console.WriteLine("inserta el fichero en ingles");

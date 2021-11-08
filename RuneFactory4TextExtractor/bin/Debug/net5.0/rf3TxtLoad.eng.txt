@@ -1,0 +1,34 @@
+Save Data
+CargaData
+Save data?
+Overwrite existing data?
+Saving...  Please do not turn off the system{LF}or close the game.
+Data saved.
+cargasaved data?
+Loading...
+Data loaded.
+Delete saved data?
+Deleting...
+Data deleted.
+Level
+Farm
+Yr. 
+Spr.  
+Sum. 
+Aut. 
+Win. 
+D.
+:
+Failed to load saved data.
+Delete Data
+Start Game
+The most recent saved data was corrupted.{LF}Data has been restored from a backup.
+The saved data was corrupted, and has{LF}been deleted.
+Failed to read saved data. Please turn the{LF}system off and reinsert the Game Card or SD{LF}Card.
+Failed to write saved data. Please turn the{LF}system off and reinsert the Game Card or SD{LF}Card.
+Thank you for your purchase! Please wait as{LF}we format your saved data.
+Data format completed! Welcome to the{LF}world of Rune Factory!
+Would you like to transfer items, levels, skill{LF}levels and monsters from the saved data?{LF}*Note that your current items will disappear.
+Transferring data.
+Data transfer completed!
+Your saved data was corrupted and could{LF}not be transferred. The corrupted data has{LF}been deleted.

@@ -21,7 +21,6 @@ C:\Users\darkx\Documents\GitHub\Rune-Factory-4-Special-Text-Extractor\RuneFactor
 C:\Users\darkx\Documents\GitHub\Rune-Factory-4-Special-Text-Extractor\RuneFactory4TextExtractor\bin\Debug\net5.0\RuneFactory4TextExtractor.dll
 C:\Users\darkx\Documents\GitHub\Rune-Factory-4-Special-Text-Extractor\RuneFactory4TextExtractor\bin\Debug\net5.0\ref\RuneFactory4TextExtractor.dll
 C:\Users\darkx\Documents\GitHub\Rune-Factory-4-Special-Text-Extractor\RuneFactory4TextExtractor\bin\Debug\net5.0\RuneFactory4TextExtractor.pdb
-C:\Users\darkx\Documents\GitHub\Rune-Factory-4-Special-Text-Extractor\RuneFactory4TextExtractor\obj\Debug\net5.0\RuneFactory4TextExtractor.csprojAssemblyReference.cache
 C:\Users\darkx\Documents\GitHub\Rune-Factory-4-Special-Text-Extractor\RuneFactory4TextExtractor\obj\Debug\net5.0\RuneFactory4TextExtractor.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\darkx\Documents\GitHub\Rune-Factory-4-Special-Text-Extractor\RuneFactory4TextExtractor\obj\Debug\net5.0\RuneFactory4TextExtractor.AssemblyInfoInputs.cache
 C:\Users\darkx\Documents\GitHub\Rune-Factory-4-Special-Text-Extractor\RuneFactory4TextExtractor\obj\Debug\net5.0\RuneFactory4TextExtractor.AssemblyInfo.cs

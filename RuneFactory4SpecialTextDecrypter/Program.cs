@@ -111,8 +111,14 @@ namespace RuneFactory4TextExtractor
                             {
                                 String temporal = text[x].Replace("{LF}", "\n");
                                 Byte[] towrite = Encoding.UTF8.GetBytes(temporal);
+                               
+                                //En Rune Factory 2 DS, si el largo es cero, entonces el puntero es cero.
                                 writer.Write(towrite.Length);
+                                if (towrite.Length != 0)
                                 writer.Write(firstOffset + carry);
+                                else
+                                writer.Write(0);
+                                //
                                 carry += (towrite.Length + 1);
 
                             }

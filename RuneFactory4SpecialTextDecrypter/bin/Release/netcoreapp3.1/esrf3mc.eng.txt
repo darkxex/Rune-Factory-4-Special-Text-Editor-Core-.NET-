@@ -63130,57 +63130,57 @@ I can't just leave him alone!
 I need to equip this.
 Press ＠字０＠ to eat ＠アイテム０＠.
 [Received ＠アイテム２＠.]
-         - Spring Day 1 -                   {LF}{LF}       Weather: Fair Skies
-Norad Express Destination: Selphia
-I'm flyin' high, baby!
-Goodness, I'm so high up!
-This choice will make you a ＋male＋ character.
-／Do you want a male character?／{LF}(Choose ／no／ to reselect.)
-This choice will make you a ＋female＋ character.
-／Do you want a female character?／ {LF}(Choose ／no／ to reselect.)
-Yes.
+         - Primavera: día 1 -                   {LF}{LF}       Clima: Soleado
+Destino Norad Express: Selphia
+¡Vuelo por todo lo alto, baby!
+¡Dios mío, Estoy tan alto!
+Esta opción te hará un personaje ＋masculino＋.
+／¿Quieres un personaje masculino?／{LF}(Escoge ／no／ para volver.)
+Esta opción te hará un personaje ＋femenino＋.
+／¿Quieres un personaje femenino?／ {LF}(Escoge ／no／ para volver.)
+Sí.
 No.
-This ship is heading to the town of Selphia.
-That town is famous for its 'god'.
-And I am now trying to deliver this gift to her.
-I don't have much time...
-Excuse me, how close are we to Selphia?
-Oh, we're almost there.
-Are you settin' out to do a bit o' sightseeing?
-Y-yes... Something like that.
-It's a real nice town.
-Beautiful air and scenery, an' got a great atmosphere.
-You can feel the protection o' the god when you're standin'{LF}on them roads.
-You'll enjoy your stay for sure.
+Este barco se dirige al pueblo de Selphia.
+Ese pueblo es famoso por su 'Dios'.
+Y planeo entregarle este regalo.
+No tengo mucho tiempo...
+Disculpe, ¿Cuanto nos falta para Selphia?
+Oh, ya casí estamos ahí.
+¿Planeas hacer un poco de turismo?
+S-Sí... algo como eso.
+Es un buen pueblo.
+Un hermoso aire y paisaje, además de un gran ambiente.
+Puedes sentir la proteción del Dios cuando estás{LF}en los caminos.
+Seguro que disfrutarás de tu estancia.
 ...
-...I hope so.
-(Psst, can you hear me...?)
-(Yes, sir.)
-(...By the way, what are we doing?)
-(What kind of idiot are you?! You don't even know why{LF}we're here?!)
-(Well, you always get mad when I ask...)
-(WHAT?!)
-(N-nothing!)
-(...We're here to see that person.)
-(Over there. See?)
-(Err, it's completely dark in here...)
-(Look through the hole, dumbass!)
-(Oh yeah!)
-(*SIGH*)
-(I see, so it's that woman.)
-(I see, so it's that man.)
-(We're going to make our move. You ready?)
-(Y-yes, sir!)
-RAAAAAAAAH!
-Huh?!
-Heh-heh-heh...
-We're taking over this ship now!
-If you don't wanna get hurt, do what we say!
-Got it?
-Just give us the ＋thing＋ and we'll let you go.
-That ＋thing＋ you're about to give to the Native Dragon!
-H-how do you know about that...?
-Well, you'd be surprised at what a little research will turn up.
+...Eso espero.
+(Psst, ¿Puedes oírme...?)
+(Sí, señor.)
+(...Por cierto, ¿Qué estamos haciendo?)
+(¿¡Pero que tipo de idiota eres tú!? ¿¡Ni siquiera sabes por qué{LF}estamos aquí!?)
+(Bueno, siempre te enojas cuando pregunto...)
+(¿¡QUÉ!?)
+(¡N-Nada!)
+(...Estamos aquí para ver a esa persona.)
+(por ahí. ¿ves?)
+(Err, está completamente oscuro aquí...)
+(Mira a través del agujero, ¡idiota!)
+(¡Oh sí!)
+(*SUSPIRO*)
+(Ya veo, así que es esa mujer.)
+(Ya veo, así que es ese hombre.)
+(Vamos a hacer nuestro movimiento. ¿Estás listo?)
+(S-Sí, señor!)
+¡RAAAAAAAAH!
+¿¡Eh!?
+Je-je-je...
+¡Nos apoderaremos de este barco ahora!
+¡Si no quieres salir herido, haz lo que digamos!
+¿Comprendes?
+Solo danos esa ＋cosa＋ y te dejaremos ir.
+¡Esa ＋cosa＋ que estás a punto de darle al Dragón Nativo!
+¿C-Cómo saben sobre eso...?
+Bueno, estarías sorprendido de lo que aparecerá con una pequeña investigación.
 How could you possibly...? Wh-who are you?!
 ...This gift is very important.
 I won't just hand it over to a total stranger!

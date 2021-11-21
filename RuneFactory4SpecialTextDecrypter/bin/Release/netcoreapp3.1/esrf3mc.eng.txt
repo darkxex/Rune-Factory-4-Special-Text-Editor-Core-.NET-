@@ -63181,19 +63181,19 @@ Solo danos esa ＋cosa＋ y te dejaremos ir.
 ¡Esa ＋cosa＋ que estás a punto de darle al Dragón Nativo!
 ¿C-Cómo saben sobre eso...?
 Bueno, estarías sorprendido de lo que aparecerá con una pequeña investigación.
-How could you possibly...? Wh-who are you?!
-...This gift is very important.
-I won't just hand it over to a total stranger!
-I won't just hand it over to a total stranger!
-It's all right. I've trained for emergencies like this.
-First, I press ＠字０＠ to open the ＋L Pocket＋.
-Then I equip the ＠アイテム０＠ and attack by{LF}pressing ＠字１＠!
-Equip the ＠アイテム０＠ and attack by{LF}pressing ＠字１＠!
-You wanna fight, huh? Fine! Let's do this!
-Y-yes, sir!
-How do these people know about ＋this＋...?
-Anyway, if someone's after it, I have to hurry...!
-Hmph. Not so fast!
+¿Cómo pudieron...? ¿¡Quiénes son ustedes!?
+...Este regalo es muy importante.
+¡No se lo daré a un completo desconocido!
+¡No se lo daré a un completo desconocido!
+Está bien. He entrenado para emergencias como esta.
+Primero, pulso ＠字０＠ para abrir la ＋Bolsa＋.
+¡Entonces equipo el ＠アイテム０＠ y ataco{LF}pulsando ＠字１＠!
+¡Equipa el ＠アイテム０＠ y ataca{LF}pulsando ＠字１＠!
+Quieres pelear, ¿eh? ¡Muy bien! ¡Hagamos esto!
+¡S-Sí, señor!
+¿Cómo esta gente sabe sobre ＋esto＋...?
+¡De todos modos, si alguien lo está buscando, Tengo que darme prisa...!
+Hmph. ¡No tan rápido!
 ...!
 ...ake...up!!
 Wake up already!!

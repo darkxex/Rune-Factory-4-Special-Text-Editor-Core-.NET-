@@ -63180,7 +63180,7 @@ Je-je-je...
 Solo danos esa ＋cosa＋ y te dejaremos ir.
 ¡Esa ＋cosa＋ que estás a punto de darle al Dragón Nativo!
 ¿C-Cómo saben sobre eso...?
-Bueno, estarías sorprendido de lo que aparecerá{LF}con una pequeña investigación.
+Bueno, estarías sorprendido de lo que aparecerá con una{LF}pequeña investigación.
 ¿Cómo pudieron...? ¿¡Quiénes son ustedes!?
 ...Este regalo es muy importante.
 ¡No se lo daré a un completo desconocido!

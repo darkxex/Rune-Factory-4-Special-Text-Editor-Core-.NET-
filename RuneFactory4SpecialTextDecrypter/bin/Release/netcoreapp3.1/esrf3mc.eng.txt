@@ -63209,7 +63209,7 @@ Es hora de que nos digas donde está escondida {LF}esa ＋cosa＋.
 ...¿Dónde estoy?
 ...¿Quiénes son?
 ¿¡Eh!?
-¿Quién...Quién soy...?
+¿Quién... Quién soy...?
 ...Oye, di algo.
 P-Pero, Creí que me dijiste que mantuviera {LF}mi boca cerrada.
 ¡CÓMO SEA! ¡Solo haz lo que te digo!
@@ -63229,39 +63229,39 @@ Lo juro, ¡No sé de que estás hablando!
 ¿¡Estás diciendo que un pequeño golpe en la cabeza le {LF}causó amnesia!?
 ¡Señor! ¡No lo sé, señor! ¿Pero tal vez?
 Hmmm...
-...Um.
-...What?
-...Perhaps, um...it IS amnesia?
-How can you lose your damned memory so easily?!
-You shouldn't cry over spilled milk, sir.
-I know that!
-Dammit...
-...No. Wait a minute.
-How do we know you're not just playing us like fools? This{LF}could be a trick. A dirty, rotten ploy!
-Huh?!
-Oh, good point, sir!
-All right.
-Take this fool over there and we'll see if a little spot of{LF}threatening brings out the truth.
-Understood, sir!
-What?!
-H-hey! Stop...!
-Um... Wh-what exactly do you intend to do to me?
-Well, I'm going to...
+...Emm.
+...¿Qué?
+...¿Quizás, Em... esto ES amnesia?
+¿¡Cómo podrías perder tu maldita memoria tan fácilmente!?
+No debería llorar sobre leche derramada, señor.
+¡Ya sé eso!
+Maldita sea...
+...No. Espera un minuto.
+¿Cómo sabemos que no nos está tomando el pelo? Esto{LF}podría ser un truco. ¡Una sucia y podrida táctica!
+¿¡Eh!?
+¡Oh, buen punto, señor!
+Muy bien.
+Toma a ese tonto y veamos si un poco de persuación {LF}saca a relucir la verdad.
+¡Entendido, señor!
+¿¡Qué!?
+¡O-Oye! ¡Para...!
+Em... ¿Q-Qué exactamente intentas hacerme?
+Bueno, voy a...
 ...
-Uh, sir?
-What is it?
-How do threats work again?
-YOU...!
-Just use the altitude, dammit!
-How?
-Do I have to explain everything?!
-Threaten to kick this fool off the ship!
-Um, like this?
-Oops...
-H-huh?
-WAAAAAAAH!
-Wh-who the hell told you to actually kick?! You dumbass!
-*SIGH*
+Eh, ¿señor?
+¿Qué pasa?
+¿Cómo era lo de la persuación?
+¡Tú...!
+¡Solo usa la altitud, maldita sea!
+¿Cómo?
+¿¡Tengo que explicarte todo!?
+¡Amenazalo a ese tonto con tirarlo del barco!
+Em, ¿Algo así?
+Ups...
+¿E-Eh?
+¡WAAAAAAAH!
+¿¡Q-Quién demonios te dijo que de verdad lo arrojaras!? {LF}¡Eres un Idiota!
+*SUSPIRO*
 Dear me...
 What should I do?
 Hmm?

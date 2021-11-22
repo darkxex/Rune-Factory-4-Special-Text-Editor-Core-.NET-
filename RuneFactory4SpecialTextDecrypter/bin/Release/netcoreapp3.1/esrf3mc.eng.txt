@@ -63175,7 +63175,7 @@ Seguro que disfrutarás de tu estancia.
 ¿¡Eh!?
 Je-je-je...
 ¡Nos apoderaremos de este barco ahora!
-¡Si no quieres salir herido, haz lo que digamos!
+¡Si no quieren salir heridos, hagan lo que les digamos!
 ¿Comprendes?
 Solo danos esa ＋cosa＋ y te dejaremos ir.
 ¡Esa ＋cosa＋ que estás a punto de darle al Dragón Nativo!
@@ -63241,7 +63241,7 @@ Maldita sea...
 ¿¡Eh!?
 ¡Oh, buen punto, señor!
 Muy bien.
-Toma a ese tonto y veamos si un poco de persuación {LF}saca a relucir la verdad.
+Toma a ese idiota y veamos si un poco de persuación {LF}saca a relucir la verdad.
 ¡Entendido, señor!
 ¿¡Qué!?
 ¡O-Oye! ¡Para...!
@@ -63255,80 +63255,80 @@ Eh, ¿señor?
 ¡Solo usa la altitud, maldita sea!
 ¿Cómo?
 ¿¡Tengo que explicarte todo!?
-¡Amenaza a ese tonto con empujarlo del barco!
+¡Amenaza a ese idiota con empujarlo del barco!
 Em, ¿Algo así?
 Ups...
 ¿E-Eh?
 ¡WAAAAAAAH!
 ¿¡Q-Quién demonios te dijo que de verdad lo empujaras!? {LF}¡Eres un Idiota!
 *SUSPIRO*
-Dear me...
-What should I do?
-Hmm?
-What?
-Huh?
-WHAAAAAAAAH!!
-Oww...
-What the heck?!
-Did someone just fall from the sky?
-A p-person...?
-Hey, there...are you alive?
+Dios mío...
+¿Qué debería hacer?
+¿Hmm?
+¿Qué?
+¿Eh?
+¡¡WHAAAAAAAAH!!
+Auh...
+¿¡Qué demonios!?
+¿Alguien acaba de caer del cielo?
+¿Una p-persona...?
+Oye... ¿Estás con vida?
 ...
 ...
-H-hello?
-You aren't dead, are you?!
+¿H-Hola?
+No estás muerto, ¿¡cierto!?
 Owww...
-Whoa!
-You ARE alive!
-...Barely...
-Are you injured?
-Well...
-My back hurts...
-But that's all.
-Only back pain after falling from the heavens?
-Just what kind of body do you have?!
-What is it?
-...?
-...A talking...dragon...?
-Huh?!
-...Well, all right. I suppose introductions are in order. Ahem!
-I am Ventuswill, the Divine Wind!
-One of the legendary Native Dragons governing this world.
-And I don't care if you've fallen from above, you have no{LF}right to enter this chamber unpermitted!
-What's your name?
-...Me...?
-LADY VENTUSWILLLL!
-What in the world was that noise I just heard?!
-Egads! Who is this knave?!
-Wait, Volkanon.
-B-but...
-I said wait. We are talking now.
-Yes, Ma'am...
-So, who are you?
-Well...
-...＠しゅじんこうくん＠, I think...
-You mustn't give me a vague, noncommittal answer. Say it{LF}clearly.
-Well...um...that's the best I can do, I'm afraid.
-I can't remember anything else besides my own name...
-Oh, my!
-...You speak the truth?
-Yes, Ma'am.
-... I see honesty in your eyes.
-But amnesia...!
-I'm so sorry for your loss!
-WAAAAAH!
-You must be very confused, losing your memory like this!
-But rest assured!
-I-I'll always be on your side!
-Err...I can't...breathe...
-Oh!
-Wait a minute!
-Perhaps you're the ＠姫＠ we've been waiting for!
+¡Guah!
+¡ESTÁS vivo!
+...apenas...
+¿Tienes alguna herida?
+Bueno...
+Me duele la espalda...
+Pero eso es todo.
+¿Solo dolor de espalda después de caer del cielo?
+¿¡Qué tipo de cuerpo tienes!?
+¿Qué pasa?
+¿...?
+¿Un dragón... qué habla...?
+¿¡Eh!?
+...Bueno, muy bien. Supongo que las presentaciones van {LF}primero. ¡Ejem!
+¡Soy Ventuswill, el Viento Divino!
+Uno de los legendarios Dragones Nativos que gobiernan {LF}este mundo.
+Y no me importa si caiste desde arriba, tú no tienes {LF}derecho a entrar a esta camara sin permiso!
+¿Cuál es tu nombre?
+¿...Yo...?
+¡LADY VENTUSWILLLL!
+¿¡Qué rayos fue ese ruido que escuché!?
+¡Egads! ¿¡Quién es este bribón!?
+Espera, Volkanon.
+P-Pero...
+Dije espera. Estamos hablando ahora.
+Sí, Señora...
+Entonces, ¿Quién eres?
+Bueno...
+...＠しゅじんこうくん＠, creo...
+No me des una respuesta vaga y evasiva. {LF}Dilo claramente.
+Bueno... Em... Eso es lo mejor que puedo hacer, me temo.
+No puedo recordar nada más que mi nombre...
+Oh, ¡vaya!
+...¿Dices la verdad?
+Sí, Señora.
+...Veo honestidad en tus ojos.
+¡Pero amnesia...!
+¡Lo lamento tanto por tu perdida!
+¡WAAAAAH!
+¡Debes estar muy confundido, perder tu memoria así!
+¡Pero ten por seguro!
+¡Y-Yo siempre estaré a tu lado!
+Err...No puedo...respirar...
+¡Oh!
+¡Espera un minuto!
+¡Quizás usted es el/la ＠姫＠ que hemos estado esperando!
 Hmm...
-You do have an air of nobility about you.
-You must have lost your memory from the shock of the fall.
-Do you have any idea how or why you came to drop in from{LF}above?
-Well, you see...
+Tienes un aire de nobleza.
+Debes haber perdido tu memoria del shock de la caída.
+¿Tienes alguna idea del cómo o por qué caiste desde allá {LF}arriba?
+Bueno, verás...
 ...Rebels, then. I suspected as much.
 They must be villains chasing after the ＠姫＠.
 You're right. This can't be a coincidence. 

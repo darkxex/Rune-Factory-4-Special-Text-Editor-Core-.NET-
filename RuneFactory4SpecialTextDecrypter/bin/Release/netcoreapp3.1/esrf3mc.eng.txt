@@ -63150,7 +63150,7 @@ Oh, ya casí estamos ahí.
 S-Sí... algo como eso.
 Es un buen pueblo.
 Un hermoso aire y paisaje, además de un gran ambiente.
-Puedes sentir la proteción del Dios cuando estás{LF}en los caminos.
+Puedes sentir la proteción del Dios cuando estás en los {LF}caminos.
 Seguro que disfrutarás de tu estancia.
 ...
 ...Eso espero.
@@ -63192,7 +63192,7 @@ Primero, pulso ＠字０＠ para abrir la ＋Bolsa＋.
 Quieres pelear, ¿eh? ¡Muy bien! ¡Hagamos esto!
 ¡S-Sí, señor!
 ¿Cómo esta gente sabe sobre ＋esto＋...?
-¡De todos modos, si alguien lo está buscando,{LF}Tengo que darme prisa...!
+De todos modos, si alguien lo está buscando,{LF}¡Tengo que darme prisa...!
 Hmph. ¡No tan rápido!
 ¡...!
 ¡¡...Des...pierta!!
@@ -63211,7 +63211,7 @@ Es hora de que nos digas donde está escondida {LF}esa ＋cosa＋.
 ¿¡Eh!?
 ¿Quién... Quién soy...?
 ...Oye, di algo.
-P-Pero, Creí que me dijiste que mantuviera {LF}mi boca cerrada.
+P-Pero, creí que me dijiste que mantuviera {LF}mi boca cerrada.
 ¡CÓMO SEA! ¡Solo haz lo que te digo!
 Que tirano...
 Emm, disculpe...
@@ -63237,7 +63237,7 @@ No debería llorar sobre leche derramada, señor.
 ¡Ya sé eso!
 Maldita sea...
 ...No. Espera un minuto.
-¿Cómo sabemos que no nos está tomando el pelo? Esto{LF}podría ser un truco. ¡Una sucia y podrida táctica!
+¿Cómo sabemos que no nos está tomando el pelo? {LF}Esto podría ser un truco. ¡Una sucia y podrida táctica!
 ¿¡Eh!?
 ¡Oh, buen punto, señor!
 Muy bien.
@@ -63250,17 +63250,17 @@ Bueno, voy a...
 ...
 Eh, ¿señor?
 ¿Qué pasa?
-¿Cómo era lo de la persuación?
+¿Cómo era lo de persuadirlo?
 ¡Tú...!
 ¡Solo usa la altitud, maldita sea!
 ¿Cómo?
 ¿¡Tengo que explicarte todo!?
-¡Amenazalo a ese tonto con tirarlo del barco!
+¡Amenaza a ese tonto con empujarlo del barco!
 Em, ¿Algo así?
 Ups...
 ¿E-Eh?
 ¡WAAAAAAAH!
-¿¡Q-Quién demonios te dijo que de verdad lo arrojaras!? {LF}¡Eres un Idiota!
+¿¡Q-Quién demonios te dijo que de verdad lo empujaras!? {LF}¡Eres un Idiota!
 *SUSPIRO*
 Dear me...
 What should I do?

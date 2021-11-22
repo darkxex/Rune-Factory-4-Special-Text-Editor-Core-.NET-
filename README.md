@@ -1,5 +1,5 @@
 # Rune Factory 4 Special Text Extractor
-Esta aplicación sirve para extraer e importar una traducción al fichero Ingles.
+Esta aplicación sirve para extraer e importar una traducción al fichero Ingles y actualmente está siendo usada para traducir el juego al español.
 # Ejemplo de uso:
 ### 1. Extrayendo Texto.
  Ej: **RuneFactory4SpecialTextDecrypter.exe rf3TxtLoad.eng**

@@ -63276,10 +63276,10 @@ Oye... ¿Estás con vida?
 ...
 ...
 ¿H-Hola?
-No estás muerto, ¿¡cierto!?
+No has muerto, ¿¡cierto!?
 Owww...
 ¡Guah!
-¡ESTÁS vivo!
+¡ESTÁS con vida!
 ...apenas...
 ¿Tienes alguna herida?
 Bueno...
@@ -63291,7 +63291,7 @@ Pero eso es todo.
 ¿...?
 ¿Un dragón... qué habla...?
 ¿¡Eh!?
-...Bueno, muy bien. Supongo que las presentaciones van {LF}primero. ¡Ejem!
+...Bueno, muy bien. Supongo que las presentaciones irán {LF}en orden. ¡Ejem!
 ¡Soy Ventuswill, el Viento Divino!
 Uno de los legendarios Dragones Nativos que gobiernan {LF}este mundo.
 Y no me importa si caiste desde arriba, tú no tienes {LF}derecho a entrar a esta camara sin permiso!
@@ -63323,18 +63323,18 @@ Sí, Señora.
 Err...No puedo...respirar...
 ¡Oh!
 ¡Espera un minuto!
-¡Quizás usted es el/la ＠姫＠ que hemos estado esperando!
+¡Quizás usted es el(la) ＠姫＠ que hemos estado esperando!
 Hmm...
 Tienes un aire de nobleza.
-Debes haber perdido tu memoria del shock de la caída.
+Debes haber perdido tu memoria por el shock de la caída.
 ¿Tienes alguna idea del cómo o por qué caiste desde allá {LF}arriba?
 Bueno, verás...
 ...Rebeldes, entonces. Sospecho.
-Deben ser villanos persiguiendo a el/la ＠姫＠.
+Deben ser villanos persiguiendo a el(la) ＠姫＠.
 Están en lo cierto. Esto no puede ser coincidencia. 
 Volkanon.
 ¿Sí, Señora?
-Prepara una habitación para el/la ＠姫＠.
+Prepara una habitación para el(la) ＠姫＠.
 ¡En seguida!
 ¡D-Disculpe!
 Quiere decir, ¿una habitación para mí?
@@ -63346,28 +63346,28 @@ Sin duda.
 Parece que el destino ha decidido tu curso, No hay {LF}necedidad de preocuparse, te lo aseguro.
 Estás aquí porque estabas destinado a estar aquí.
 P-Pero...
-You shall live in this town, and perhaps in doing so, you may{LF}find clues leading to your identity.
-It seems the most logical course of action, wouldn't you{LF}agree?
-I'm not sure I'd call that logical, but...
-Are you sure I can stay?
-Most certainly.
-...Thank you very much.
-There's no need for that.
-However...
-I hope in addition to your own personal details, you've also{LF}forgotten...
-...the tone of voice I used earlier.
-Earlier...?
-What do you mean?
-...My...way of speaking. You know only this, right? You've{LF}heard nothing else?
+Deberías vivir en este pueblo, y quizás con ello, podrías {LF}encontrar pistas que te lleven a tu identidad.
+Parece la acción a tomar más lógica, ¿no te parece?
+No tengo la seguridad para llamar a eso lógico, pero...
+¿Seguro que puedo quedarme?
+Indudablemente.
+...Muchas gracias.
+No hay necesidad de eso.
+Sin embargo...
+Espero que además de tu información personal, también {LF}hayas olvidado...
+...El tono de voz que usé anteriormente.
+¿Anteriormente...?
+¿Qué quieres decir?
+...Mi...manera de hablar. Sabes de eso, ¿cierto? {LF}¿No escuchaste nada más?
 Oh.
-You do sound a little different, come to think of it. A little{LF}more...arrogant, I guess? Sorry.
-Tsk!
-So you do remember...
-Did you just...click your tongue derisively?!
-*SIGH*...
-If you've heard the other side of me, I suppose there's{LF}nothing I can do about it. Oh, well...
-Erm...Lady Ventuswill?
-Just call me Venti.
+Suenas un poco diferente, ahora que lo pienso. {LF}Un poco más... arrogante, ¿no es así? Lo siento.
+¡Tsk!
+Así que lo recuerdas...
+¿¡Acabas de... chasquear tu lengua despectivamente!?
+*SUSPIRO*...
+Si haz escuchado mi otra fase, supongo que no {LF}hay nada que pueda hacer. Oh, bueno... 
+Erm...¿Lady Ventuswill?
+Solo llámame Venti.
 Venti?
 Sure, why not? At this point, I don't care if you address me{LF}with respect. That ship has sailed!
 Furthermore, stop speaking so politely. It makes me rather{LF}uncomfortable.

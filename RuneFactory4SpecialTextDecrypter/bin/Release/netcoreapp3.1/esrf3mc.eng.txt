@@ -63323,29 +63323,29 @@ Sí, Señora.
 Err...No puedo...respirar...
 ¡Oh!
 ¡Espera un minuto!
-¡Quizás usted es este ＠姫＠ que hemos estado esperando!
+¡Quizás usted es el/la ＠姫＠ que hemos estado esperando!
 Hmm...
 Tienes un aire de nobleza.
 Debes haber perdido tu memoria del shock de la caída.
 ¿Tienes alguna idea del cómo o por qué caiste desde allá {LF}arriba?
 Bueno, verás...
-...Rebels, then. I suspected as much.
-They must be villains chasing after the ＠姫＠.
-You're right. This can't be a coincidence. 
+...Rebeldes, entonces. Sospecho.
+Deben ser villanos persiguiendo a el/la ＠姫＠.
+Están en lo cierto. Esto no puede ser coincidencia. 
 Volkanon.
-Yes, Ma'am?
-Prepare a room for the ＠姫＠.
-Right away!
-E-excuse me!
-Do you mean, a room for me?
-Of course.
-But I didn't fall down with the intent to stay here...
-No doubt.
-Huh?
-Who would intentionally fall from the sky into a castle roof?
-It seems the fates have decided your course. There's no{LF}need to worry, I assure you.
-You are here because you were meant to be here.
-B-but...
+¿Sí, Señora?
+Prepara una habitación para el/la ＠姫＠.
+¡En seguida!
+¡D-Disculpe!
+Quiere decir, ¿una habitación para mí?
+Por supuesto.
+Pero yo no caí con la intención de quedarme acá...
+Sin duda.
+¿Eh?
+¿Quién caería intencionalmente del cielo al techo de un {LF}castillo?
+Parece que el destino ha decidido tu curso, No hay {LF}necedidad de preocuparse, te lo aseguro.
+Estás aquí porque estabas destinado a estar aquí.
+P-Pero...
 You shall live in this town, and perhaps in doing so, you may{LF}find clues leading to your identity.
 It seems the most logical course of action, wouldn't you{LF}agree?
 I'm not sure I'd call that logical, but...

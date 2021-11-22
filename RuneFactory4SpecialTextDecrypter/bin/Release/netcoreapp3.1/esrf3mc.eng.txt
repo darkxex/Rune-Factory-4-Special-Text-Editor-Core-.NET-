@@ -63194,40 +63194,40 @@ Quieres pelear, ¿eh? ¡Muy bien! ¡Hagamos esto!
 ¿Cómo esta gente sabe sobre ＋esto＋...?
 ¡De todos modos, si alguien lo está buscando,{LF}Tengo que darme prisa...!
 Hmph. ¡No tan rápido!
-...!
-...ake...up!!
-Wake up already!!
-Finally...
-Phew.
+¡...!
+¡¡...Des...pierta!!
+¡¡Despierta ya!!
+Por fin...
+Uff.
 ...
-...So, what are we doing again?
-...Just shut up and watch.
-Now, then...
-It's time you tell us where that ＋thing＋ is hidden.
-Or else!
-...Who am I?
-...Where am I?
-...Who are you?
-HUH?!
-I...who am I...?
-...Hey, say something.
-B-but, I thought you told me to keep my mouth shut.
-WHATEVER! Just do what I say!
-Such a tyrant...
-Um, excuse me...
-Huh?
-Err, who are you...?
-Hey, are you trying to play dumb with us?!
-No...um...I, I really don't know--
-I'll ask you again. Where the hell is that thing you were{LF}holding?!
-I swear, I don't know what you're talking about!
-You...!
-Sir, sir!
-What is it?! I thought I told you to shut up!
-Sir! It might be amnesia, sir!
-What...?
-Are you saying a little blow to the head like that caused{LF}amnesia?!
-Sir! I don't know, sir! But maybe?
+...Entonces, ¿Qué vamos a hacer?
+...Solo cállate y observa.
+Bien, entonces...
+Es hora de que nos digas donde está escondida {LF}esa ＋cosa＋.
+¡O si no!
+...¿Quién soy?
+...¿Dónde estoy?
+...¿Quiénes son?
+¿¡Eh!?
+¿Quién...Quién soy...?
+...Oye, di algo.
+P-Pero, Creí que me dijiste que mantuviera {LF}mi boca cerrada.
+¡CÓMO SEA! ¡Solo haz lo que te digo!
+Que tirano...
+Emm, disculpe...
+¿Eh?
+Err, ¿Quiénes son ustedes...?
+Oye, ¿¡Estás intentando jugar al tonto con nosotros!?
+No...Emm..., Yo realmente no sé--
+Te lo preguntaré de nuevo. ¿¡Dónde demonios está esa cosa {LF}que estabas sosteniendo!?
+Lo juro, ¡No sé de que estás hablando!
+¡Tú...!
+¡Señor, señor!
+¿¡Qué pasa!? ¡Creí que te había dicho que te callaras!
+¡Señor! ¡Podría ser amnesia, señor!
+¿Qué...?
+¿¡Estás diciendo que un pequeño golpe en la cabeza le {LF}causó amnesia!?
+¡Señor! ¡No lo sé, señor! ¿Pero tal vez?
 Hmmm...
 ...Um.
 ...What?

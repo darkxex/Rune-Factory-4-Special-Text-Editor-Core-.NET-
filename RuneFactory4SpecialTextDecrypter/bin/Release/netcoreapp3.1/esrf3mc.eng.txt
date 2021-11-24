@@ -63323,18 +63323,18 @@ Sí, Señora.
 Err...No puedo...respirar...
 ¡Oh!
 ¡Espera un minuto!
-¡Quizás usted es ＠姫＠ que hemos estado esperando!
+¡Quizás usted es el(la) ＠姫＠ que hemos estado esperando!
 Hmm...
 Tienes un aire de nobleza.
 Debes haber perdido tu memoria por el shock de la caída.
 ¿Tienes alguna idea del cómo o por qué caiste desde allá {LF}arriba?
 Bueno, verás...
 ...Rebeldes, entonces. Sospecho.
-Deben ser villanos tras ＠姫＠.
+Deben ser villanos tras el(la) ＠姫＠.
 Están en lo cierto. Esto no puede ser coincidencia. 
 Volkanon.
 ¿Sí, Señora?
-Prepara una habitación para ＠姫＠.
+Prepara una habitación para el(la) ＠姫＠.
 ¡En seguida!
 ¡D-Disculpe!
 Quiere decir, ¿una habitación para mí?
@@ -63369,7 +63369,7 @@ Si haz escuchado mi otra fase, supongo que no {LF}hay nada que pueda hacer. Oh, 
 Erm...¿Lady Ventuswill?
 Solo llámame Venti.
 ¿Venti?
-Claro, ¿por qué no? En este punto, no me importa {LF}si te diriges a mí con respecto. ¡Ese barco ya partió!
+Claro, ¿por qué no? En este punto, no me importa {LF}si te diriges a mí con respeto. ¡Ese barco ya partió!
 Además, deja de hablar tan cortésmente. {LF}Me hace sentir bastante incomoda.
 Hablame como si fueramos viejos amigos, ¿Está bien?
 Hmm...
@@ -63379,7 +63379,7 @@ Sí, Se--
 B-Bien.
 Bueno.
 ¡Ahora escucha!
-¡Esto es imoprtante!
+¡Esto es importante!
 No dejes que nadie más sepa sobre esto, ¿entiendes?
 ...¿Sobre qué?
 El hecho de que soy... un poco informal por naturaleza.
@@ -63389,23 +63389,23 @@ S-Sí, Se--V-Venti...
 ¡Hmph!
 Lady Ventuswill, la habitación está lista.
 Bien hecho.
-Tu cabeza debe doler. Hoy descansa temprano, ＠姫＠.
+Tu cabeza debe doler. Hoy debería descansar temprano, ＠姫＠.
 Ahora, Lord Arthur, permíteme mostrarte tu habitación.
 ¿Arthur?
 Sí.
 Escuché que el nombre de ＠姫＠ es Arthur.
 ...¿Hmm?
-Pero si ese es el caso, ¿por qué te llamarías a {LF}ti mismo por otro nombre...?
+Pero si ese es el caso, ¿por qué te llamarías a ti mismo {LF}por otro nombre...?
 Em...
-¿Soy realmente... ＠姫＠...?
+¿Soy realmente... el(la) ＠姫＠...?
 No creo que mi nombre sea Arthur...
 ...Ya veo.
-Aún siendo la única cosa que creías recordad. {LF}Debe ser difícil...
+Aún siendo la única cosa de lo que creías estar seguro. {LF}Debe ser difícil...
 Oh, no, eso no fue lo que dije...
 Es natural que te encuentres con tal confusión.
 Creo que lo mejor es que hoy te duermas temprano.
 Pero...
-Si eres un miembro de la familia real, tu identidad se dará a conocer pronto.
+Si eres un miembro de la familia real, tu identidad {LF}se dará a conocer pronto.
 En cuyo caso, deberías admitir que has olvidado {LF}tu nombre. 
 Pero no lo he olvidado. Mi nombre es ＠しゅじんこうくん＠.
 Hmm...＠しゅじんこうくん＠...
@@ -63418,7 +63418,7 @@ Pero, te estoy diciendo que--
 Te dejo el resto a ti, Volkanon.
 Por supuesto.
 ¡Ahora, ＠姫＠, vamos!
-...En serio no creo que sea ＠姫＠...
+...En serio no creo que sea el(la) ＠姫＠...
 Primero que todo, ¿No es Arthur un nombre de chico?
 ＠しゅじんこうくん＠.
 ¿Sí?

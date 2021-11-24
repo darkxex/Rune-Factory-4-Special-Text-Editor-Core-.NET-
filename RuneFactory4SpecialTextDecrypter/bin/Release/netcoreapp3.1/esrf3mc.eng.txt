@@ -63390,10 +63390,10 @@ S-Sí, Se--V-Venti...
 Lady Ventuswill, la habitación está lista.
 Bien hecho.
 Tu cabeza debe doler. Hoy debería descansar temprano, ＠姫＠.
-Ahora, Lord Arthur, permíteme mostrarte tu habitación.
+Ahora, Lord Arthur, permítame mostrarle su habitación.
 ¿Arthur?
 Sí.
-Escuché que el nombre de ＠姫＠ es Arthur.
+Escuché que el(la) ＠姫＠ se llama Arthur.
 ...¿Hmm?
 Pero si ese es el caso, ¿por qué te llamarías a ti mismo {LF}por otro nombre...?
 Em...
@@ -63403,7 +63403,7 @@ No creo que mi nombre sea Arthur...
 Aún siendo la única cosa de lo que creías estar seguro. {LF}Debe ser difícil...
 Oh, no, eso no fue lo que dije...
 Es natural que te encuentres con tal confusión.
-Creo que lo mejor es que hoy te duermas temprano.
+Creo que lo mejor es que hoy duerma temprano.
 Pero...
 Si eres un miembro de la familia real, tu identidad {LF}se dará a conocer pronto.
 En cuyo caso, deberías admitir que has olvidado {LF}tu nombre. 
@@ -63431,7 +63431,7 @@ Sinceramente...
 ¿Cómo pude meter la pata tan mal...?
 Asegurate de mantener tu promesa. ¡O si no!
 B-Bien... ¡Lo haré!
-Bueno, esta es tu habitación, ＠しゅじんこうくん＠.
+Bueno, esta es su habitación, ＠しゅじんこうくん＠.
 Allow me to explain your housing arrangements.
 Listen.
 Don't listen.

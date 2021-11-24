@@ -63330,7 +63330,7 @@ Debes haber perdido tu memoria por el shock de la caída.
 ¿Tienes alguna idea del cómo o por qué caiste desde allá {LF}arriba?
 Bueno, verás...
 ...Rebeldes, entonces. Sospecho.
-Deben ser villanos persiguiendo a ＠姫＠.
+Deben ser villanos tras ＠姫＠.
 Están en lo cierto. Esto no puede ser coincidencia. 
 Volkanon.
 ¿Sí, Señora?
@@ -63357,10 +63357,10 @@ Sin embargo...
 Espero que además de tu información personal, también {LF}hayas olvidado...
 ...El tono de voz que usé anteriormente.
 ¿Anteriormente...?
-¿Qué quieres decir?
+¿Qué quiere decir?
 ...Mi...manera de hablar. Sabes de eso, ¿cierto? {LF}¿No escuchaste nada más?
 Oh.
-Suenas un poco diferente, ahora que lo pienso. {LF}Un poco más... arrogante, ¿no es así? Lo siento.
+Suena un poco diferente, ahora que lo pienso. {LF}Un poco más... arrogante, ¿no es así? Lo siento.
 ¡Tsk!
 Así que lo recuerdas...
 ¿¡Acabas de... chasquear tu lengua despectivamente!?
@@ -63368,70 +63368,70 @@ Así que lo recuerdas...
 Si haz escuchado mi otra fase, supongo que no {LF}hay nada que pueda hacer. Oh, bueno... 
 Erm...¿Lady Ventuswill?
 Solo llámame Venti.
-Venti?
-Sure, why not? At this point, I don't care if you address me{LF}with respect. That ship has sailed!
-Furthermore, stop speaking so politely. It makes me rather{LF}uncomfortable.
-Talk to me like we're old friends. All right?
+¿Venti?
+Claro, ¿por qué no? En este punto, no me importa {LF}si te diriges a mí con respecto. ¡Ese barco ya partió!
+Además, deja de hablar tan cortésmente. {LF}Me hace sentir bastante incomoda.
+Hablame como si fueramos viejos amigos, ¿Está bien?
 Hmm...
 ...
-Yes, M--
+Sí, Se--
 ...
-O-okay.
-Good.
-Now listen!
-This is important!
-Do not let anyone else know about this, all right?
-...About what?
-The fact that I'm actually...kind of informal by nature.
-Oho, so you're keeping that se--
-YOU TELL NO ONE. UNDERSTOOD?
-Y-yes, M--V-Venti...
-Hmph!
-Lady Ventuswill, the room is now ready.
-Well done.
-Your body must ache. Rest early today, ＠姫＠.
-Now, Lord Arthur, allow me to show you to your room.
-Arthur?
-Yes.
-I heard that the name of the ＠姫＠ is Arthur.
-...Hmm?
-But if that's the case, why would you call yourself by another{LF}name...?
-Um...
-Am I really...a ＠姫＠...?
-I don't think my name is Arthur...
-...I see.
-Even the one thing you thought you remembered. It must be{LF}tough...
-Oh, no, that's not what I'm saying...
-It's only natural that you'd be a bit bewildered.
-I think it's best that you turn in early today.
-But...
-If you're a member of the royal family, your identity shall{LF}soon be learned.
-In which case, you would have to admit that you've forgotten{LF}your name.
-But I haven't forgotten. My name is ＠しゅじんこうくん＠.
+B-Bien.
+Bueno.
+¡Ahora escucha!
+¡Esto es imoprtante!
+No dejes que nadie más sepa sobre esto, ¿entiendes?
+...¿Sobre qué?
+El hecho de que soy... un poco informal por naturaleza.
+Oho, así que lo mantienes en secre--
+NO LE DIGAS A NADIE. ¿ENTENDIDO?
+S-Sí, Se--V-Venti...
+¡Hmph!
+Lady Ventuswill, la habitación está lista.
+Bien hecho.
+Tu cabeza debe doler. Hoy descansa temprano, ＠姫＠.
+Ahora, Lord Arthur, permíteme mostrarte tu habitación.
+¿Arthur?
+Sí.
+Escuché que el nombre de ＠姫＠ es Arthur.
+...¿Hmm?
+Pero si ese es el caso, ¿por qué te llamarías a {LF}ti mismo por otro nombre...?
+Em...
+¿Soy realmente... ＠姫＠...?
+No creo que mi nombre sea Arthur...
+...Ya veo.
+Aún siendo la única cosa que creías recordad. {LF}Debe ser difícil...
+Oh, no, eso no fue lo que dije...
+Es natural que te encuentres con tal confusión.
+Creo que lo mejor es que hoy te duermas temprano.
+Pero...
+Si eres un miembro de la familia real, tu identidad se dará a conocer pronto.
+En cuyo caso, deberías admitir que has olvidado {LF}tu nombre. 
+Pero no lo he olvidado. Mi nombre es ＠しゅじんこうくん＠.
 Hmm...＠しゅじんこうくん＠...
-That's a fancy name.
-That's a unique name.
-That's a rather fun name.
-That's a hip, with-it sort of name.
-You may use that name for now if you wish.
-But, I'm telling you--
-I'll leave the rest to you, Volkanon.
-Of course.
-Now, ＠姫＠, let us go!
-...I really don't think I'm a ＠姫＠...
-First of all, isn't Arthur a boy's name?
+Ese es un nombre elegante.
+Ese es un nombre único.
+Ese es un nombre bastante divertido.
+Ese es un nombre de moda, {LF}de los que se usan ahora.
+Puedes usar ese nombre por ahora si lo deseas.
+Pero, te estoy diciendo que--
+Te dejo el resto a ti, Volkanon.
+Por supuesto.
+¡Ahora, ＠姫＠, vamos!
+...En serio no creo que sea ＠姫＠...
+Primero que todo, ¿No es Arthur un nombre de chico?
 ＠しゅじんこうくん＠.
-Yes?
-Don't forget about the promise we made earlier.
-What promise?
-What?! Have you already forgotten, you inconsiderate cur?!
-About...the way I talk! My secret casualness!
-Oh, okay. I remember now.
-Honestly...
-How could I have slipped up so bad...?
-Be sure you keep that promise. Or else!
-O-okay...I will!
-Well, this is your room, ＠しゅじんこうくん＠.
+¿Sí?
+No olvides sobre la promesa que hicimos antes.
+¿Qué promesa?
+¿¡Qué!? ¿¡ya lo has olvidado, maldito desconsiderado!?
+¡Sobre...la forma en que hablo! ¡Mi casual secreto!
+Oh, está bien. Ya lo recuerdo.
+Sinceramente...
+¿Cómo pude meter la pata tan mal...?
+Asegurate de mantener tu promesa. ¡O si no!
+B-Bien... ¡Lo haré!
+Bueno, esta es tu habitación, ＠しゅじんこうくん＠.
 Allow me to explain your housing arrangements.
 Listen.
 Don't listen.

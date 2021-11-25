@@ -107,38 +107,38 @@ I'd rather walk, thank you. I'm in the mood for a good strut.
 I can't just sit here and do nothing!
 H-huh? It doesn't connect?
 [Received ＠アイテム０＠.]
-..ake up.
-It's time to wake up!
+...Despierta.
+¡Es hora de despertar!
 ...
-Is she asleep?
-But...I could have sworn she just looked at me.
-Um, excuse me? Are you awake?
-Good morni--*YAAAWN*...
-Uh, good morning.
-How can you sleep standing there?
-I don't really know myself.
-Hmm... I think I came in here for something.
-Oh dear. What was it?
-Ah! That's right.
-Mr. Volkanon asked me to come wake you.
-Are you awake yet?
-...Yes.
-Oh, good. Good morning, then. And I'm pleased to meet you.
-My name is Clorica, and I'm training to be a servant at this{LF}castle.
-I'm ＠しゅじんこうくん＠.
-Oh? How strange...
-Mr. Volkanon said your name was Arthur.
-Oh, uh...
-No, my name is definitely ＠しゅじんこうくん＠.
-I'd rather you call me that.
-As you wish, ＠しゅじんこうくん＠.
-That's a very tasty-sounding name.
-What a sleepy sort of name.
-Such a pleasant-dream-y sort of name.
-That must have a really pretty spelling.
-Anyway, I'm not terribly sure what is going on, but I'll do my{LF}best to serve you.
-Thank you very much.
-Oh. Here.
+¿Está dormida?
+Pero...podría jugar que acaba de mirarme.
+Em, ¿Perdón? ¿Estás despiperta?
+Buenos día--*YAAAWN*...
+Eh, buenos días.
+¿Cómo puedes dormir ahí de pie?
+Realmente no lo sé.
+Hmm... Creo que vine aquí por algo.
+Oh, vaya. ¿Qué era?
+¡Ah! Es cierto.
+El Sr. Volkanon me pidió que te despierte.
+¿Ya estás despierto?
+...Sí.
+Oh, bien. Buenos días, entonces. Y encantada de conocerte.
+Mi nombre esClorica, y estoy entrenando para ser una sirvienta en{LF}este castillo.
+Yo soy ＠しゅじんこうくん＠.
+¿Oh? Qué extraño...
+El Sr. Volkanon dijo que tu nombre era Arthur.
+Oh, eh...
+No, mi nombre definitivamente es ＠しゅじんこうくん＠.
+Prefiero que me llames así.
+Como quiera, ＠しゅじんこうくん＠.
+Ese nombre suena muy sabroso.
+Qué nombre tan somnoliento.
+Qué nombre tan agradable.
+Debe tener una forma de deletro realmente linda.
+En fin, No estoy muy segura de que pasa, pero daré mi mejor {LF}esfuerzo para servirle.
+Muchas gracias.
+Oh. Aquí.
 I made breakfast, so please eat it if you'd like.
 Ooh, that ＠アイテム０＠ looks really yummy!
 ＠アイテム０＠... Always been a favorite of{LF}mine, too.
@@ -63432,53 +63432,53 @@ Sinceramente...
 Asegurate de mantener tu promesa. ¡O si no!
 B-Bien... ¡Lo haré!
 Bueno, esta es su habitación, ＠しゅじんこうくん＠.
-Allow me to explain your housing arrangements.
-Listen.
-Don't listen.
-Are you sure? It's quite important!
-Listen.
-Don't listen.
-There we have it! Put your faith in me, and I will deliver!{LF}Ahem...
-All right, then. I'll leave you be. Rest well.
-Thank you very much.
-Please follow me.
-This is to be your ＋diary＋.
-You may ＋save＋ your data here.
+Permítame explicarle los arreglos de su vivienda.
+Escuche.
+No escuche.
+¿Estás seguro? ¡Es bastante importante!
+Escuche.
+No escuche.
+¡Ahí lo tenemos! Pon tu fé en mí, y yo lo entregaré!{LF}Ahem...
+Muy bien, entonces. Te dejo en paz. Descansa bien.
+Muchas gracias.
+Por favor, sígame.
+Este será tu ＋diario＋.
+Podrás ＋guardar＋ tus datos aquí.
 ＠しゅじんこうくん＠...
-When facing it, you may press ＠字０＠ to open the diary. Please{LF}try ＋saving＋ your data now.
-Open the ＋diary＋ by pressing ＠字０＠, and ＋save＋ the data now.
-By ＋saving＋ your data with the diary, everything related to you{LF}will be recorded for posterity.
-Therefore, I recommend that you ＋save＋ every day before{LF}going to sleep.
-Next up, let me explain about your ＋bed＋.
-Come, ＠しゅじんこうくん＠.
-If you sleep in this ＋bed＋, you're guaranteed good rest and will{LF}wake promptly at 6AM.
-You should try sleeping in your ＋bed＋ at night as much as{LF}possible. Sleep is good for you!
-If you don't sleep in the ＋bed＋, you'll get tired and catch a{LF}cold.
-Sleeping will not only help you recover health...
-...but also help your body grow and mature as well.
-Now, you must be weary after such a day.
-Since your ＋HP＋ is low due to the damage taken from falling...
-...I would suggest you go to ＋bed＋ and rest immediately.
-Without ＋HP＋, you'll be sent to the clinic after one hit.
-Okay.
-Not yet...
-Then please examine your bed to ensure it meets with your{LF}approval, and have a lovely night.
-But...I'm certain you must be exhausted.
-You fell from the sky, after all!
-You must trust me on this.
-Go to sleep and rest. It's for your own good!
-＠しゅじんこうくん＠, it's this way.
-Examine the bed and go to sleep.
-For today, I believe you should sleep in. Rest until 8AM{LF}instead of the usual 6AM.
-＠しゅじんこうくん＠, please eat first.
-...ake up...
-Please wake up!
+Cuando lo tengas delante, puedes pulsar ＠字０＠ para abrir el diario. {LF}Por favor intente ＋guardar＋ sus datos ahora.
+Abre el ＋diario＋ presionando ＠字０＠, y ＋guarda＋ los datos ahora.
+Al ＋guardar＋ tus datos con el diario, todo lo relacionado a ti{LF}quedará registrado para la posteridad.
+Por lo tanto, recomiendo ＋guardar＋ todos los días{LF}antes de ir a dormir.
+A continuación, Deja explicarte sobre tu ＋cama＋.
+Ven, ＠しゅじんこうくん＠.
+Si duerme en esta ＋cama＋, tiene garantizado un buen descanso y{LF}despertará puntualmente a las 6 AM.
+Debería intentar dormir en su ＋cama＋ por la noche tanto como sea {LF}posible. ¡Dormir es bueno para usted!
+Si no duerme en la ＋cama＋, se cansará y{LF}resfriará.
+Dormir no sólo ayudará a recuperar su salud...
+...sino que también ayudará a tu cuerpo a crecer y madurar.
+Ahora, debe estar cansado después de tal día.
+Como su ＋HP＋ está bajo debido al daño tomado por la caída...
+...Le sugiero ir a la ＋bed＋ y descansar inmediatamente.
+Sin ＋HP＋, Será enviado a la clinica después de un golpe.
+Bien.
+No todavía...
+Entonces, por favor revise su cama para asegurarse que cumple con {LF}su aprobación, y tenga una buena noche.
+Pero... estoy seguro que debe estar al límite de cansancio.
+¡Cayó del cielo, después de todo!
+Debe confiar en mí.
+Vaya a dormir y descanse. ¡Es por su propio bien!
+＠しゅじんこうくん＠, es por aquí.
+Examina la cama y ve a dormir.
+Por hoy, creo que debería dormir hasta tarde. Descanse hasta las 8 AM{LF}en vez de las usuales 6 AM.
+＠しゅじんこうくん＠, por favor come primero.
+...Despierta...
+¡Por favor, despierta!
 ...
-Is she asleep...?
-I could've sworn she was just looking at me...
-Um...please wake up...
-Gooood moooorning...
-Good...morning.
+¿Está dormida...?
+Podría jurar que me estaba mirando...
+Em... por favor, despierta...
+Buenooos díaaas...
+Buenos...días.
 Why are you sleeping here, exactly?
 I was just wondering about that myself.
 I thought I came here for a reason...

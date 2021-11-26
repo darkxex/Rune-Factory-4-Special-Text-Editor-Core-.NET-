@@ -82,9 +82,9 @@ Vayamos hacia esa aterradora mansión encantada en el oeste.
 Vayamos hacia el viejo camino en el suroeste donde {LF}siempre es otoño.
 Vayamos hacia la cueva caliente a lo largo de Autumn Road.
 Vayamos hacia la torre alta del oeste.
-Vayamos hacia the southeast hills, where it's always spring.
-Vayamos hacia the strange cavern at Sercerezo Hill.
-Vayamos hacia the southwest mountain road that leads to the{LF}Sechs Empire.
+Vayamos hacia las colinas del sureste, donde siempre es primavera.
+Vayamos hacia la extraña caverna en Sercerezo Hill.
+Vayamos hacia el camino de la montaña al suroeste que lleva {LF}al Imperio Sechs.
 Vayamos hacia the entrance to the Sechs Empire.
 Vayamos hacia the castle in the Sechs Empire where Emperor{LF}Ethelberd dwells.
 Vayamos hacia the field at Sercerezo Hill, where it's always{LF}spring.
@@ -124,7 +124,7 @@ El Sr. Volkanon me pidió que te despierte.
 ¿Ya estás despierto?
 ...Sí.
 Oh, bien. Buenos días, entonces. Y encantada de conocerte.
-Mi nombre esClorica, y estoy entrenando para ser una sirvienta en{LF}este castillo.
+Mi nombre es Clorica, y estoy entrenando para ser una sirvienta en{LF}este castillo.
 Yo soy ＠しゅじんこうくん＠.
 ¿Oh? Qué extraño...
 El Sr. Volkanon dijo que tu nombre era Arthur.

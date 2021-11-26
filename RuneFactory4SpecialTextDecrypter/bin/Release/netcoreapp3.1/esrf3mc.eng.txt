@@ -70,32 +70,32 @@ Muy bien. Por favor, dejame saber cuando todo esté listo.
 ＠マップＫ＠
 ＠マップＬ＠
 ＠マップＭ＠
-Quit
+Abandonar
 Error: ＠０＠
 Error: ＠０＠
-Hmm... Where to go?
-Let's go to the floating empire.
-Let's go to Selphia.
-Let's go to the forest with all the pretty butterflies.
-Let's go to those mysterious ruins in the east.
-Let's go to that scary haunted mansion in the west.
-Let's go to the old road in the southwest where it's always{LF}fall.
-Let's go to the hot cave along the Autumn Road.
-Let's go to the tall tower in the west.
-Let's go to the southeast hills, where it's always spring.
-Let's go to the strange cavern at Sercerezo Hill.
-Let's go to the southwest mountain road that leads to the{LF}Sechs Empire.
-Let's go to the entrance to the Sechs Empire.
-Let's go to the castle in the Sechs Empire where Emperor{LF}Ethelberd dwells.
-Let's go to the field at Sercerezo Hill, where it's always{LF}spring.
-Let's go to the field at Selphia Plain, where it's always{LF}summer.
-Let's go to the field along the Autumn Road, where it's{LF}always fall.
-Let's go to the field at Silver Lake, where it's always winter.
-Let's go to the fishing spot at Sercerezo Hill. You can always{LF}catch spring fish there.
-Let's go to the fishing spot on Selphia Plain. You can always{LF}catch summer fish there.
-Let's go to the fishing spot along the Autumn Road. You can{LF}always catch fall fish there.
-Let's go to the fishing spot on Silver Lake. You can always{LF}catch winter fish there.
-Let's go to the cave full of big Mamadoodles.
+Hmm... ¿Dónde ir?
+Vayamos hacia el imperio flotante.
+Vayamos hacia Selphia.
+Vayamos hacia el bosque con todas las bonitas mariposas.
+Vayamos hacia esas misteriosas ruinas del este.
+Vayamos hacia esa aterradora mansión encantada en el oeste.
+Vayamos hacia el viejo camino en el suroeste donde {LF}siempre es otoño.
+Vayamos hacia la cueva caliente a lo largo de Autumn Road.
+Vayamos hacia la torre alta del oeste.
+Vayamos hacia the southeast hills, where it's always spring.
+Vayamos hacia the strange cavern at Sercerezo Hill.
+Vayamos hacia the southwest mountain road that leads to the{LF}Sechs Empire.
+Vayamos hacia the entrance to the Sechs Empire.
+Vayamos hacia the castle in the Sechs Empire where Emperor{LF}Ethelberd dwells.
+Vayamos hacia the field at Sercerezo Hill, where it's always{LF}spring.
+Vayamos hacia the field at Selphia Plain, where it's always{LF}summer.
+Vayamos hacia the field along the Autumn Road, where it's{LF}always fall.
+Vayamos hacia the field at Silver Lake, where it's always winter.
+Vayamos hacia the fishing spot at Sercerezo Hill. You can always{LF}catch spring fish there.
+Vayamos hacia the fishing spot on Selphia Plain. You can always{LF}catch summer fish there.
+Vayamos hacia the fishing spot along the Autumn Road. You can{LF}always catch fall fish there.
+Vayamos hacia the fishing spot on Silver Lake. You can always{LF}catch winter fish there.
+Vayamos hacia the cave full of big Mamadoodles.
 Let's go pick some Ayngondaia Lawn from the cave where{LF}the Ancient Bone rests.
 Let's seek out a monsters' den!
 Ehh, let's just stay in.

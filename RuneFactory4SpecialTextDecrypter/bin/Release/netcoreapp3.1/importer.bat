@@ -1,1 +1,1 @@
-RuneFactory4SpecialTextDecrypter -i rf3mc2.eng rf3mc2.eng.txt
+RuneFactory4SpecialTextDecrypter -i rf3mc.eng esrf3mc.eng.txt

@@ -1,0 +1,1 @@
+RuneFactory4SpecialTextDecrypter -i rf3mc.eng original_esrf3mc.eng

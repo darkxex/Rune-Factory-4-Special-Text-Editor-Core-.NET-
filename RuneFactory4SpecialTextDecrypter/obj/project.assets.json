@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\darkx\\Documents\\GitHub\\Rune-Factory-4-Special-Text-Extractor\\RuneFactory4SpecialTextDecrypter\\RuneFactory4SpecialTextDecrypter.csproj",
+      "projectUniqueName": "C:\\Users\\darkx\\Documents\\GitHub\\Rune-Factory-4-Special-Text-Editor-Core-.NET-\\RuneFactory4SpecialTextDecrypter\\RuneFactory4SpecialTextDecrypter.csproj",
       "projectName": "RuneFactory4SpecialTextDecrypter",
-      "projectPath": "C:\\Users\\darkx\\Documents\\GitHub\\Rune-Factory-4-Special-Text-Extractor\\RuneFactory4SpecialTextDecrypter\\RuneFactory4SpecialTextDecrypter.csproj",
+      "projectPath": "C:\\Users\\darkx\\Documents\\GitHub\\Rune-Factory-4-Special-Text-Editor-Core-.NET-\\RuneFactory4SpecialTextDecrypter\\RuneFactory4SpecialTextDecrypter.csproj",
       "packagesPath": "C:\\Users\\darkx\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\darkx\\Documents\\GitHub\\Rune-Factory-4-Special-Text-Extractor\\RuneFactory4SpecialTextDecrypter\\obj\\",
+      "outputPath": "C:\\Users\\darkx\\Documents\\GitHub\\Rune-Factory-4-Special-Text-Editor-Core-.NET-\\RuneFactory4SpecialTextDecrypter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\darkx\\AppData\\Roaming\\NuGet\\NuGet.Config",
